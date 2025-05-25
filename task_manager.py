@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # File to store tasks
-DATA_FILE = 'tasks.csv'
+DATA_FILE = 'tasks.json'
 
 # -------- TASK CLASS --------
 class Task:
