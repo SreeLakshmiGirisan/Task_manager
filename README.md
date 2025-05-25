@@ -1,7 +1,7 @@
 This is a simple task manager app using Python. I used classes to organize logic, file I/O to persist data, and date validation to make sure due dates aren't in the past. 
 I used exception handling to make it robust. 
 The Steps to be followed:
-STEP 1:Run the file Task_manager.py
+STEP 1:Run the file task_manager.py
 STEP 2: the output result in the following 
           Welcome to Simple Task Manager!
           
@@ -19,4 +19,4 @@ STEP 4: Input from 2 to 6 are given and the following command is executed in the
         4: View completed tasks
         5: View all tasks (pending + completed)
         6: Quit the program
-STEP 5: All the inputs from the users are stored in the Task.csv file which is in JSON format.
+STEP 5: All the inputs from the users are stored in the tasks.csv file which is in JSON format.
