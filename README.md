@@ -19,4 +19,4 @@ STEP 4: Input from 2 to 6 are given and the following command is executed in the
         4: View completed tasks
         5: View all tasks (pending + completed)
         6: Quit the program
-STEP 5: All the inputs from the users are stored in the tasks.csv file which is in JSON format.
+STEP 5: All the inputs from the users are stored in the tasks.json
